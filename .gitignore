@@ -1,0 +1,11 @@
+*.dat
+.idea/
+A2023JudgeData/
+A2023Solutions/
+A2023Solutions_JudgeData_OutFiles/
+A2023JudgeOutput/
+A2023StudentData/
+out/
+*.iml
+*.pdf
+DryRun/
